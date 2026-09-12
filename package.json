@@ -1,0 +1,38 @@
+{
+  "name": "eagle-ecs",
+  "version": "0.1.0",
+  "description": "A lightweight Entity-Component-System library for JavaScript",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "test": "node --test",
+    "pack": "npm pack --dry-run"
+  },
+  "keywords": [
+    "ecs",
+    "entity-component-system",
+    "game",
+    "gamedev",
+    "javascript"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cfarhanali/eagle-ecs.git"
+  },
+  "bugs": {
+    "url": https://github.com/cfarhanali/eagle-ecs/issues
+   },
+   "homepage": "https://github.com/eagleforge/eagle-ecs#readme"
+}
