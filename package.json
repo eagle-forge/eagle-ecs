@@ -29,10 +29,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cfarhanali/eagle-ecs.git"
+    "url": "https://github.com/eagle-forge/eagle-ecs.git"
   },
   "bugs": {
-    "url": https://github.com/cfarhanali/eagle-ecs/issues
+    "url": "https://github.com/eagle-forge/eagle-ecs/issues"
    },
-   "homepage": "https://github.com/eagleforge/eagle-ecs#readme"
+   "homepage": "https://github.com/eagle-forge/eagle-ecs#readme"
 }
